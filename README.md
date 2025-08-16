@@ -1,1 +1,2 @@
 # bmiplus
+google.com, pub-1680745983251496, DIRECT, f08c47fec0942fa0
